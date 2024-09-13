@@ -40,6 +40,7 @@ export default function Portfolio() {
 						<Link
 							href="https://www.linkedin.com/in/prakashkumarraut/"
 							className="px-3 py-1 rounded text-sm"
+							target="_blank"
 						>
 							<Linkedin className="h-4 w-4" />
 						</Link>
@@ -51,6 +52,7 @@ export default function Portfolio() {
 						<Link
 							href="https://x.com/Mr_Prakash_Raut"
 							className="px-3 py-1 rounded text-sm"
+							target="_blank"
 						>
 							<Twitter className="h-4 w-4" />
 						</Link>
